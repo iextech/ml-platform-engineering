@@ -26,7 +26,7 @@ The install command is `uv pip install [package]`. The full list of the installe
 - Objects: Copy the three files in `feast/feature_data` to `feature-data-sets` bucket
 
 ## How to run python programs.
-Please note that these files are not well polished. 
+Please note that these files are not well polished. Before running, please update the three .env files according to your environment.
 
 ### ML 
 ```bash
